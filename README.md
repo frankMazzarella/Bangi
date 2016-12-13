@@ -3,6 +3,8 @@ By @igvina
 ##Features:
 * 45 levels
 * Configurable difficulty/speed (from very easy to ultra)
+* Multiple items (power-ups)
+* And many surprises ...
 
 ##Video:
 
